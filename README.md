@@ -1,209 +1,187 @@
 <p align="center">
   <img
-    src="https://github.com/atef5922/atef5922/blob/main/atefbanner.png"
-    alt="Md. Atef Ashab Sifat | Full Stack Web Developer"
+    src="https://raw.githubusercontent.com/atef5922/atef5922/main/atefbanner.png"
+    alt="Md. Atef Ashab Sifat — Full Stack Web Developer"
     width="100%"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Atef Ashab Sifat</h1>
+<h1 align="center">Md. Atef Ashab Sifat</h1>
 
-<h3 align="center">
-  Full Stack Web Developer | CSE Graduate | Building Modern & Scalable Web Applications
-</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/atef5922">
-    <img
-      src="https://komarev.com/ghpvc/?username=atef5922&label=Profile%20Views&color=2563eb&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
-
-  <a href="https://github.com/atef5922?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/atef5922?label=Followers&style=for-the-badge&color=7c3aed"
-      alt="GitHub Followers"
-    />
-  </a>
+  CSE Graduate&nbsp;&nbsp;•&nbsp;&nbsp;Dhaka, Bangladesh
 </p>
 
 <p align="center">
   <a href="mailto:atefsifat5922@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-
   <a href="https://linkedin.com/in/atef5922" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://github.com/atef5922" target="_blank">
+  <a href="https://github.com/atef5922">
     <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-atef5922-181717?style=flat-square&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=atef5922&label=Profile%20Views&color=2563eb&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<img
-  align="right"
-  alt="Coding Animation"
-  width="360"
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxcWVtMzRjeTN2NHh5cGZ5OGFpOG1rZnZjemo3NGg5ajVreXI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+I am a **Computer Science and Engineering graduate** from  
+**Daffodil International University** and a **Full Stack Web Developer** based in Dhaka, Bangladesh.
 
-I am a **Computer Science and Engineering graduate** and a passionate **Full Stack Web Developer** based in **Dhaka, Bangladesh**.
+I build modern, responsive and scalable web applications with a strong focus on clean architecture, performance, usability and maintainable code. I work across frontend interfaces, backend systems, databases, authentication, API integration and deployment.
 
-I specialize in building modern, responsive, secure, and scalable web applications with clean architecture and user-focused interfaces. I enjoy transforming ideas into production-ready digital products by working across frontend development, backend systems, databases, authentication, APIs, and deployment.
-
-- 🔭 Currently building **full-stack web applications and SaaS projects**
-- 🌱 Continuously improving my skills in **Next.js, TypeScript, PostgreSQL, Prisma and Supabase**
-- 💻 Experienced in both **frontend and backend development**
-- ⚡ Focused on **performance, scalability, clean code and responsive UI**
-- 🤝 Open to **freelance work, remote opportunities and collaborations**
-- 💬 Ask me about **React, Next.js, Node.js, Express.js and database integration**
-- 📍 Based in **Dhaka, Bangladesh**
-- 📫 Reach me at **atefsifat5922@gmail.com**
-- 🚀 Motto: **Always building better web experiences**
-
-<br clear="right"/>
+- Building production-ready **full-stack web applications**
+- Working with **React, Next.js, TypeScript and Node.js**
+- Developing secure APIs and database-driven applications
+- Focused on responsive UI, performance and user experience
+- Interested in full-time, remote and collaborative opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## Technology Stack
 
-### Frontend Development
+### Frontend
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark"
     alt="Frontend Technologies"
   />
 </p>
 
-### Backend Development
+### Backend
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,java,php,laravel,python"
+    src="https://skillicons.dev/icons?i=nodejs,express,java,php,laravel&theme=dark"
     alt="Backend Technologies"
   />
 </p>
 
-### Databases & Backend Services
+### Database & Backend Services
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,firebase"
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase&theme=dark"
     alt="Databases and Backend Services"
   />
 </p>
 
-### Tools, Platforms & Deployment
+### Tools & Deployment
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,npm"
+    src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,npm&theme=dark"
     alt="Development Tools"
   />
 </p>
 
 ---
 
-## 💡 What I Do
+## Featured Projects
+
+| Project | Overview | Technologies |
+|---|---|---|
+| **Nexora Home** | A modern, responsive and production-ready home appliance e-commerce platform with product browsing, search, wishlist, comparison, cart, authentication and product management. <br><br> [Live Website](https://nexora-home-appliances.vercel.app/) · [Source Code](https://github.com/atef5922/nexora-home-appliances) | Next.js, TypeScript, Tailwind CSS, Supabase, Prisma, PostgreSQL |
+| **Baby Mart** | A full-stack baby products e-commerce platform featuring a responsive storefront, secure authentication, product management and a dedicated admin dashboard. <br><br> [Live Website](https://baby-mart-nu.vercel.app/) · [Source Code](https://github.com/atef5922/baby-mart) | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+
+---
+
+## Core Strengths
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎨 Frontend Development</h3>
-      <p>
-        Building responsive, accessible and user-friendly interfaces using
-        React, Next.js, TypeScript and Tailwind CSS.
-      </p>
+    <td align="center" width="25%">
+      <strong>Frontend Development</strong>
+      <br><br>
+      Responsive, accessible and modern user interfaces
     </td>
-
-    <td width="50%">
-      <h3>⚙️ Backend Development</h3>
-      <p>
-        Developing secure APIs, authentication systems and server-side
-        applications using Node.js and Express.js.
-      </p>
+    <td align="center" width="25%">
+      <strong>Backend Development</strong>
+      <br><br>
+      APIs, authentication and server-side application logic
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🗄️ Database Integration</h3>
-      <p>
-        Designing and integrating relational and NoSQL databases using
-        PostgreSQL, MongoDB, MySQL and Prisma ORM.
-      </p>
+    <td align="center" width="25%">
+      <strong>Database Integration</strong>
+      <br><br>
+      Relational and NoSQL database design and integration
     </td>
-
-    <td width="50%">
-      <h3>🚀 Full-Stack Applications</h3>
-      <p>
-        Creating complete production-ready applications from user interface
-        and backend logic to database management and deployment.
-      </p>
+    <td align="center" width="25%">
+      <strong>Deployment</strong>
+      <br><br>
+      Production deployment, optimization and maintenance
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
+## GitHub Statistics
 
-```javascript
-const developer = {
-  name: "Md. Atef Ashab Sifat",
-  role: "Full Stack Web Developer",
-  education: "B.Sc. in Computer Science and Engineering",
-  location: "Dhaka, Bangladesh",
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=atef5922&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Md. Atef Ashab Sifat GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=atef5922&theme=tokyonight&hide_border=true"
+    alt="Md. Atef Ashab Sifat GitHub Streak"
+  />
+</p>
 
-  frontend: [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atef5922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
+---
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL"
-  ],
+## Contact
 
-  tools: [
-    "Prisma",
-    "Supabase",
-    "Git",
-    "GitHub",
-    "Postman",
-    "Vercel"
-  ],
+<p align="center">
+  <strong>Have a project, opportunity or collaboration in mind?</strong>
+</p>
 
-  focus: [
-    "Clean Code",
-    "Responsive Design",
-    "Performance",
-    "Scalability",
-    "User Experience"
-  ]
-};
+<p align="center">
+  <a href="mailto:atefsifat5922@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-atefsifat5922%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://linkedin.com/in/atef5922" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Md.%20Atef%20Ashab%20Sifat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Always building better web experiences.</strong>
+</p>
