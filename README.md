@@ -1,82 +1,209 @@
 <p align="center">
-  <img src="https://github.com/atef5922/atef5922/blob/main/atefbanner.png" alt="Md. Atef Ashab Sifat Banner">
+  <img
+    src="https://github.com/atef5922/atef5922/blob/main/atefbanner.png"
+    alt="Md. Atef Ashab Sifat | Full Stack Web Developer"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Atef Ashab Sifat</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+
+<h3 align="center">
+  Full Stack Web Developer | CSE Graduate | Building Modern & Scalable Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atef5922&label=Profile%20views&color=0e75b6&style=flat" alt="atef5922" />
+  <a href="https://github.com/atef5922">
+    <img
+      src="https://komarev.com/ghpvc/?username=atef5922&label=Profile%20Views&color=2563eb&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
+
+  <a href="https://github.com/atef5922?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/atef5922?label=Followers&style=for-the-badge&color=7c3aed"
+      alt="GitHub Followers"
+    />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="mailto:atefsifat5922@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding GIF" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxcWVtMzRjeTN2NHh5cGZ5OGFpOG1rZnZjemo3NGg5ajVreXI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I'm a final-year **Computer Science and Engineering student** at Daffodil International University. I thrive on creative coding projects, ranging from building portfolio websites and small applications to structured programming challenges.
-
-Currently, I'm diving deep into **React.js** to master the MERN stack.
-
-* 🔭 I'm currently working on **Web Development Projects**.
-* 🌱 I'm continuously learning **modern web technologies** (MERN stack, Java).
-* 🤝 I'm looking to collaborate on **Frontend and Full-Stack Web Development Projects**.
-* 💬 Ask me about **HTML, CSS, JavaScript, and Web Development concepts**.
-* 📫 How to reach me: **atefsifat5922@gmail.com**
-* ⚡ Fun fact: **I Love Code!**
-
-<br>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
   <a href="https://linkedin.com/in/atef5922" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atef5922" height="30" width="40" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/atef5922" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 ---
 
-## 💻 Languages and Tools
+## 👨‍💻 About Me
 
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- 
+<img
+  align="right"
+  alt="Coding Animation"
+  width="360"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxcWVtMzRjeTN2NHh5cGZ5OGFpOG1rZnZjemo3NGg5ajVreXI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
+
+I am a **Computer Science and Engineering graduate** and a passionate **Full Stack Web Developer** based in **Dhaka, Bangladesh**.
+
+I specialize in building modern, responsive, secure, and scalable web applications with clean architecture and user-focused interfaces. I enjoy transforming ideas into production-ready digital products by working across frontend development, backend systems, databases, authentication, APIs, and deployment.
+
+- 🔭 Currently building **full-stack web applications and SaaS projects**
+- 🌱 Continuously improving my skills in **Next.js, TypeScript, PostgreSQL, Prisma and Supabase**
+- 💻 Experienced in both **frontend and backend development**
+- ⚡ Focused on **performance, scalability, clean code and responsive UI**
+- 🤝 Open to **freelance work, remote opportunities and collaborations**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js and database integration**
+- 📍 Based in **Dhaka, Bangladesh**
+- 📫 Reach me at **atefsifat5922@gmail.com**
+- 🚀 Motto: **Always building better web experiences**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux"
+    alt="Frontend Technologies"
+  />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,java,php,laravel,python"
+    alt="Backend Technologies"
+  />
+</p>
+
+### Databases & Backend Services
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,firebase"
+    alt="Databases and Backend Services"
+  />
+</p>
+
+### Tools, Platforms & Deployment
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,npm"
+    alt="Development Tools"
+  />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💡 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atef5922&show_icons=true&locale=en" alt="Atef's GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        Building responsive, accessible and user-friendly interfaces using
+        React, Next.js, TypeScript and Tailwind CSS.
+      </p>
+    </td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atef5922&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+    <td width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <p>
+        Developing secure APIs, authentication systems and server-side
+        applications using Node.js and Express.js.
+      </p>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atef5922&" alt="GitHub Streak" />
-</p>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Integration</h3>
+      <p>
+        Designing and integrating relational and NoSQL databases using
+        PostgreSQL, MongoDB, MySQL and Prisma ORM.
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3>🚀 Full-Stack Applications</h3>
+      <p>
+        Creating complete production-ready applications from user interface
+        and backend logic to database management and deployment.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const developer = {
+  name: "Md. Atef Ashab Sifat",
+  role: "Full Stack Web Developer",
+  education: "B.Sc. in Computer Science and Engineering",
+  location: "Dhaka, Bangladesh",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL"
+  ],
+
+  tools: [
+    "Prisma",
+    "Supabase",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vercel"
+  ],
+
+  focus: [
+    "Clean Code",
+    "Responsive Design",
+    "Performance",
+    "Scalability",
+    "User Experience"
+  ]
+};
