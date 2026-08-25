@@ -341,6 +341,7 @@ Deployment
 <table>
 
 <tr>
+
 <td align="center" width="25%">
 <h3>🚀 Building</h3>
 <p>
@@ -531,7 +532,7 @@ digital products
 <td width="50%" align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=atef5922&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0"
+  src="https://raw.githubusercontent.com/atef5922/atef5922/main/profile/streak.svg"
   alt="GitHub Streak"
 />
 
@@ -540,7 +541,7 @@ digital products
 <td width="50%" align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atef5922&theme=radical&utcOffset=6"
+  src="https://raw.githubusercontent.com/atef5922/atef5922/main/profile/productive-time.svg"
   alt="Productive Time"
 />
 
@@ -870,7 +871,7 @@ I'm open to **full-time roles, remote opportunities, freelance projects and tech
 <a href="https://atef-ashab-portfolio.vercel.app/">
 
 <img
-  src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white"
+  src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF7139?style=for-the-badge&logo=firefox"
   alt="Portfolio"
 />
 
@@ -883,7 +884,7 @@ I'm open to **full-time roles, remote opportunities, freelance projects and tech
 <a href="https://linkedin.com/in/atef5922">
 
 <img
-  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
   alt="LinkedIn"
 />
 
@@ -955,7 +956,7 @@ I'm open to **full-time roles, remote opportunities, freelance projects and tech
 
 <a href="https://api.whatsapp.com/send/?phone=%2B8801774333604">
 <img
-  src="https://img.shields.io/badge/WhatsApp-01774333604-25D366?style=flat-square&logo=whatsapp"
+  src="https://img.shields.io/badge/WhatsApp-01774333604-25D366?style=flat-square"
   alt="WhatsApp"
 />
 </a>
