@@ -341,53 +341,40 @@ Deployment
 <table>
 
 <tr>
-
 <td align="center" width="25%">
-
 <h3>🚀 Building</h3>
-
 <p>
 Production-ready<br/>
 Full Stack Apps<br/>
 SaaS Platforms
 </p>
-
 </td>
 
 <td align="center" width="25%">
-
 <h3>📚 Mastering</h3>
-
 <p>
 Next.js<br/>
 TypeScript<br/>
 PostgreSQL
 </p>
-
 </td>
 
 <td align="center" width="25%">
-
 <h3>⚙️ Improving</h3>
-
 <p>
 Architecture<br/>
 Performance<br/>
 Scalability
 </p>
-
 </td>
 
 <td align="center" width="25%">
-
 <h3>🎯 Goal</h3>
-
 <p>
 Turn ideas into<br/>
 reliable and scalable<br/>
 digital products
 </p>
-
 </td>
 
 </tr>
@@ -534,7 +521,6 @@ digital products
   <td align="center" width="50%">
     <strong>🔥 Contribution Streak</strong>
   </td>
-
   <td align="center" width="50%">
     <strong>⏰ Productive Time</strong>
   </td>
@@ -545,8 +531,8 @@ digital products
 <td width="50%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/atef5922/atef5922/main/profile/streak.svg"
-  alt="GitHub Contribution Streak"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=atef5922&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0"
+  alt="GitHub Streak"
 />
 
 </td>
@@ -554,8 +540,8 @@ digital products
 <td width="50%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/atef5922/atef5922/main/profile/productive-time.svg"
-  alt="GitHub Productive Time"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atef5922&theme=radical&utcOffset=6"
+  alt="Productive Time"
 />
 
 </td>
@@ -569,15 +555,12 @@ digital products
 <table>
 
 <tr>
-
   <td align="center" width="50%">
     <strong>📚 Top Languages</strong>
   </td>
-
   <td align="center" width="50%">
     <strong>💻 Most Commit Language</strong>
   </td>
-
 </tr>
 
 <tr>
@@ -654,7 +637,7 @@ digital products
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/atef5922/atef5922/main/profile/activity-graph.svg"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=atef5922&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF"
   width="100%"
   alt="GitHub Activity Graph"
 />
@@ -943,48 +926,38 @@ I'm open to **full-time roles, remote opportunities, freelance projects and tech
 <br/>
 
 <a href="https://atef-ashab-portfolio.vercel.app/">
-
 <img
   src="https://img.shields.io/badge/Portfolio-atef--ashab--portfolio-FF7139?style=flat-square&logo=firefox"
   alt="Portfolio"
 />
-
 </a>
 
 <a href="mailto:atefsifat5922@gmail.com">
-
 <img
   src="https://img.shields.io/badge/Email-atefsifat5922%40gmail.com-EA4335?style=flat-square&logo=gmail"
   alt="Email"
 />
-
 </a>
 
 <a href="https://linkedin.com/in/atef5922">
-
 <img
   src="https://img.shields.io/badge/LinkedIn-atef5922-0A66C2?style=flat-square&logo=linkedin"
   alt="LinkedIn"
 />
-
 </a>
 
 <a href="https://github.com/atef5922">
-
 <img
   src="https://img.shields.io/badge/GitHub-atef5922-181717?style=flat-square&logo=github"
   alt="GitHub"
 />
-
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=%2B8801774333604">
-
 <img
   src="https://img.shields.io/badge/WhatsApp-01774333604-25D366?style=flat-square&logo=whatsapp"
   alt="WhatsApp"
 />
-
 </a>
 
 <br/><br/>
